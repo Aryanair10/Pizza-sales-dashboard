@@ -84,5 +84,5 @@ A bar chart showing the **bottom 5 underperforming pizzas** — helps detect low
   ## 👤 Author
 
 **Arya Nair**  
-📧 aryaragasudha@gmail.com  
+📧 aryaragasudha@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/arya-nair-838731227/) • [GitHub](https://github.com/Aryanair10)
